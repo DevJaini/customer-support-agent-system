@@ -22,8 +22,9 @@ Triage Agent
    ├── Order Status Agent → lookup_order()
    ├── Refund Agent → process_refund()
    └── FAQ Agent → WebSearchTool
+```
 
-## **Tech Stack**
+## Tech Stack
 
 - Python
 - OpenAI Agents SDK
@@ -45,4 +46,4 @@ Triage Agent
 
 "Write me a poem about cats."
 → Blocked by the input guardrail
-
+```
