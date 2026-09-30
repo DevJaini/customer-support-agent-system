@@ -18,7 +18,7 @@ Customer
    ↓
 Input Guardrail
    ↓
-Triage Agent
+Triage Agent (Routes to three specialist via handoffs)
    ├── Order Status Agent → lookup_order()
    ├── Refund Agent → process_refund()
    └── FAQ Agent → WebSearchTool
